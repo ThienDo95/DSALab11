@@ -1,0 +1,604 @@
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   10   12  2    5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+7
+7
+Pre-order
+ 2   10   12     5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+8
+8
+Post-order
+   10   12     5  6    7  8  2
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+4
+4
+Left Height 3
+Right Height 3
+3 is the height of this tree.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+5
+5
+5 is the size of this tree.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter key to be inserted: 
+1
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+    1  10   12  2    5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+7
+7
+Pre-order
+ 2    1  10   12     5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+8
+8
+Post-order
+    1  10   12     5  6    7  8  2
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+3
+3
+Enter key to be searched: 
+1
+2 is here.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+3
+3
+Enter key to be searched: 
+4
+2 is here.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+3
+3
+Enter key to be searched: 
+5
+2 is here.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+2
+2
+Enter key to be removed: 
+1
+1 has been removed.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   10   12  2    5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+1
+1
+Enter key to be inserted: 
+10
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+3
+3
+Enter key to be searched: 
+10
+2 is here.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   10    10  12  2    5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+7
+7
+Pre-order
+ 2   10    10  12     5  6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+8
+8
+Post-order
+   10    10  12     5  6    7  8  2
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+2
+2
+Enter key to be removed: 
+5
+5 has been removed.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   10    10  12  2   6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+2
+2
+Enter key to be removed: 
+10
+10 has been removed.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+    10  12  2   6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+2
+2
+Enter key to be removed: 
+10
+10 has been removed.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   12  2   6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+6
+6
+In-order
+   12  2   6    7  8 
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+12
+12
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+4
+4
+Left Height 2
+Right Height 4
+4 is the height of this tree.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+5
+5
+6 is the size of this tree.
+
+Application's Options: 
+                       
+1. Insert key in BST
+2. Delete key from BST
+3. Search for key in BST
+4. Display height of BST
+5. Display size of BST
+6. Display content of BST in inorder
+7. Display content of BST in preorder
+8. Display content of BST in postorder
+9. Build copy of the tree, and test it
+10. Exit
+                       
+Choose your option: 
+
+10
+10
+Bye
